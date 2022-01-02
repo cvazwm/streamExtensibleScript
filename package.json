@@ -1,0 +1,28 @@
+{
+  "name": "extensible",
+  "version": "1.0.0",
+  "description": "sistemita para hacer extensibles de twitch o cualquier stream.. (agregar mas tiempo por sub..etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test especified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvazwm/streamExtensibleScript.git"
+  },
+  "keywords": [
+    "extnsible",
+    "cvazwm",
+    "sebastan",
+    "gaspari",
+    "twitch",
+    "script",
+    "obs"
+  ],
+  "author": "Sebastian Gaspari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvazwm/streamExtensibleScript/issues"
+  },
+  "homepage": "https://github.com/cvazwm/streamExtensibleScript#readme"
+}
